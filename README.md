@@ -6,6 +6,7 @@
 
 **Puedes encontrar un poco mas de ejercios de java y Spring boot**
 [aqui](http://github.com/xavierF1F096 "aqui")
-###Listado de algunas clases.
+
+# Listado de ejercicios
 
 1. HashMap
